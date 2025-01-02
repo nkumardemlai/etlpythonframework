@@ -1,0 +1,10 @@
+setup.py
+winspark/__init__.py
+winspark/main.py
+winspark/spark_utils.py
+winspark/utils.py
+winspark.egg-info/PKG-INFO
+winspark.egg-info/SOURCES.txt
+winspark.egg-info/dependency_links.txt
+winspark.egg-info/requires.txt
+winspark.egg-info/top_level.txt
